@@ -1,0 +1,462 @@
+2022-09-19 21:39:18 INFO  UserDaoImpl:39 - User add User{id=4, email='dmitriy.kharkovskiy6095@gmail.com', password='12'} to DB
+2022-09-19 21:47:47 WARN  UserSingInServlet:34 - User don't authorization Данный пользователь не существует!!!
+2022-09-27 16:56:09 INFO  UserDaoImpl:39 - User add User{id=4, email='12@mail.ua', password='12'} to DB
+2022-09-27 17:34:28 INFO  UserDaoImpl:39 - User add User{id=5, email='dmitriy.kharkovskiy6095@gmail.com', password='1'} to DB
+2022-09-27 17:36:23 INFO  UserDaoImpl:39 - User add User{id=6, email='dmitriy.kharkovskiy6095@gmail.com', password='1'} to DB
+2022-09-27 17:41:44 INFO  UserDaoImpl:39 - User add User{id=7, email='12@mail.ua', password='1'} to DB
+2022-09-27 17:47:52 INFO  UserDaoImpl:39 - User add User{id=8, email='12@mail.ua', password='12'} to DB
+2022-09-27 17:48:58 INFO  UserDaoImpl:39 - User add User{id=9, email='222@gmail.com', password='12'} to DB
+2022-09-27 17:50:42 INFO  UserDaoImpl:39 - User add User{id=10, email='222@gmail.com', password='1'} to DB
+2022-09-27 18:09:32 INFO  UserDaoImpl:39 - User add User{id=11, email='dmitriy.kharkovskiy6095@gmail.com', password='12'} to DB
+2022-09-27 18:10:24 INFO  UserDaoImpl:39 - User add User{id=4, email='dmitriy.kharkovskiy6095@gmail.com', password='1'} to DB
+2022-09-27 18:13:34 INFO  UserDaoImpl:39 - User add User{id=5, email='dmitriy.kharkovskiy6095@gmail.com', password='12'} to DB
+2022-09-27 18:20:34 INFO  UserDaoImpl:39 - User add 4|dmitriy.kharkovskiy6095@gmail.com|12 to DB
+2022-09-27 18:28:40 INFO  UserDaoImpl:39 - User add 4|dmitriy.kharkovskiy6095@gmail.com|12 to DB
+2022-09-27 18:29:40 INFO  UserDaoImpl:39 - User add 5|dmitriy.kharkovskiy6095@gmail.com|12 to DB
+2022-09-27 18:41:20 INFO  UserDaoImpl:39 - User add 6|dmitriy.kharkovskiy6095@gmail.com|1 to DB
+2022-09-27 18:49:50 INFO  UserDaoImpl:39 - User add 7|12@mail.ua|1111 to DB
+2022-09-27 18:58:51 INFO  UserDaoImpl:39 - User add 8|2323@gmail.com|1 to DB
+2022-09-27 19:07:33 INFO  UserDaoImpl:39 - User add 4|12@mail.ua|q to DB
+2022-09-28 11:11:00 INFO  UserDaoImpl:39 - User add 5|dmitriy.kharkovskiy6095@gmail.com|12 to DB
+2022-09-28 11:27:06 INFO  UserDaoImpl:39 - User add 6|dmitriy.kharkovskiy6095@gmail.com|2 to DB
+2022-09-28 11:36:27 WARN  UserSingInServlet:34 - User don't authorization Данный пользователь не существует!!!
+2022-09-28 11:55:56 WARN  UserSingInServlet:34 - User don't authorization Данный пользователь не существует!!!
+2022-09-28 12:03:20 INFO  UserDaoImpl:39 - User add 4|dmitriy.kharkovskiy6095@gmail.com|1 to DB
+2022-10-06 09:44:10 INFO  UserDaoImpl:39 - User add 4|12@mail.ua|1 to DB
+2022-10-06 10:43:32 WARN  UserSingInServlet:34 - User don't authorization Данный пользователь не существует!!!
+2022-10-06 10:43:55 INFO  UserDaoImpl:39 - User add 4|12@mail.ua|12 to DB
+2022-10-17 19:50:31 INFO  UserDaoImpl:39 - User add 4|12@mail.ua|1234 to DB
+2022-10-17 21:33:45 INFO  UserDaoImpl:39 - User add 4|12@mail.ua|12 to DB
+2022-10-24 21:06:50 ERROR UserService:60 - User add
+2022-10-24 21:07:05 ERROR UserService:107 - User find
+2022-10-24 21:09:26 ERROR UserService:107 - User find
+2022-10-24 21:35:55 ERROR UserService:107 - User find
+2022-10-27 17:17:12 INFO  ProductDaoJDBCImpl:30 - Product add success
+2022-10-27 18:05:53 INFO  ProductDaoJDBCImpl:30 - Product add success
+2022-10-27 18:22:36 INFO  ProductDaoJDBCImpl:61 - Product's catalog shown
+2022-10-27 18:24:23 INFO  ProductDaoJDBCImpl:61 - Product's catalog shown
+2022-10-27 18:47:35 INFO  ProductDaoJDBCImpl:103 - Product remove from cart success
+2022-10-27 19:04:13 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:07:32 INFO  ProductDaoJDBCImpl:103 - Product remove from cart success
+2022-10-27 19:09:03 INFO  ProductDaoJDBCImpl:103 - Product remove from cart success
+2022-10-27 19:10:01 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:10:11 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-27 19:11:20 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:14:42 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:17:06 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:25:21 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:28:00 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:34:43 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:38:40 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:40:18 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:41:21 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-27 19:49:50 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:51:06 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:54:28 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:55:43 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:57:40 ERROR UserServiceImpl:99 - User find
+2022-10-27 19:59:25 ERROR UserServiceImpl:99 - User find
+2022-10-27 20:01:05 ERROR UserServiceImpl:99 - User find
+2022-10-27 20:17:05 ERROR UserServiceImpl:99 - User find
+2022-10-28 12:17:33 ERROR UserServiceImpl:99 - User find
+2022-10-28 12:17:45 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-28 12:18:12 ERROR OrderDaoJDBCImpl:29 - Order add failure
+2022-10-28 12:21:23 ERROR OrderDaoJDBCImpl:29 - Order add failure
+2022-10-28 12:22:35 INFO  OrderDaoJDBCImpl:27 - Order add success
+2022-10-28 12:43:57 INFO  OrderDaoJDBCImpl:27 - Order add success
+2022-10-28 12:46:43 INFO  OrderDaoJDBCImpl:27 - Order add success
+2022-10-28 13:39:52 ERROR UserServiceImpl:99 - User find
+2022-10-28 13:45:42 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-28 13:56:16 ERROR UserServiceImpl:99 - User find
+2022-10-28 13:56:34 ERROR OrderDaoJDBCImpl:29 - Order add failure
+2022-10-28 14:02:23 ERROR UserServiceImpl:99 - User find
+2022-10-28 14:06:08 ERROR OrderDaoJDBCImpl:29 - Order add failure
+2022-10-28 14:07:43 ERROR UserServiceImpl:99 - User find
+2022-10-28 14:08:08 INFO  OrderDaoJDBCImpl:27 - Order add success
+2022-10-28 14:22:06 ERROR OrderDaoJDBCImpl:30 - Order add failure
+2022-10-28 14:24:00 ERROR OrderDaoJDBCImpl:30 - Order add failure
+2022-10-28 14:24:16 ERROR OrderDaoJDBCImpl:30 - Order add failure
+2022-10-28 14:28:39 ERROR OrderDaoJDBCImpl:30 - Order add failure
+2022-10-28 14:30:25 ERROR OrderDaoJDBCImpl:31 - Order add failure
+2022-10-28 14:36:01 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 14:58:40 ERROR UserServiceImpl:99 - User find
+2022-10-28 14:59:08 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:04:13 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:04:21 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:08:15 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:08:28 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:11:38 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:11:46 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:14:02 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:14:17 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:17:11 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:17:19 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:18:43 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:19:05 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:22:53 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:22:59 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:25:44 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:25:51 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:27:14 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:27:20 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:28:58 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:29:06 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 15:33:11 ERROR UserServiceImpl:99 - User find
+2022-10-28 15:33:18 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 16:01:26 ERROR UserServiceImpl:99 - User find
+2022-10-28 16:01:39 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 16:03:42 ERROR UserServiceImpl:99 - User find
+2022-10-28 16:03:48 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 16:13:06 ERROR UserServiceImpl:99 - User find
+2022-10-28 16:13:14 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 16:13:36 INFO  OrderDaoJDBCImpl:73 - Status order 23update failure
+2022-10-28 16:13:36 INFO  OrderDaoJDBCImpl:73 - Status order 23update failure
+2022-10-28 16:14:43 INFO  OrderDaoJDBCImpl:73 - Status order 23update failure
+2022-10-28 16:15:09 INFO  OrderDaoJDBCImpl:70 - Status order 23update success
+2022-10-28 16:21:08 ERROR UserServiceImpl:99 - User find
+2022-10-28 16:21:20 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-28 16:23:10 ERROR UserServiceImpl:99 - User find
+2022-10-28 16:23:16 INFO  ProductDaoJDBCImpl:85 - Product add to cart success
+2022-10-28 20:03:56 ERROR UserServiceImpl:99 - User find
+2022-10-28 20:13:41 ERROR UserServiceImpl:99 - User find
+2022-10-28 20:24:36 ERROR UserServiceImpl:99 - User find
+2022-10-28 20:54:32 INFO  UserDaoJDBCImpl:109 - User find
+2022-10-28 21:45:47 INFO  OrderDaoJDBCImpl:32 - Order add success
+2022-10-28 21:46:54 INFO  OrderDaoJDBCImpl:70 - Status order 24 update success
+2022-10-31 07:35:44 INFO  UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB success
+2022-10-31 07:36:33 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 07:40:27 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 07:40:51 INFO  UserDaoJDBCImpl:61 - User 12@mail.ua add to DB success
+2022-10-31 08:50:07 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 08:50:30 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 43success
+2022-10-31 08:53:53 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 08:54:07 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 08:54:07 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 0success
+2022-10-31 08:54:13 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 08:54:13 INFO  CartDaoJDBCImpl:55 - Product id: 2 add to cart 0success
+2022-10-31 09:08:58 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:09:00 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:13:41 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:14:11 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:15:34 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:16:06 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:16:56 ERROR CartDaoJDBCImpl:76 - Cart for user id: 43 create failure
+2022-10-31 09:36:52 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:37:19 INFO  CartDaoJDBCImpl:55 - Product id: 2 add to cart 2success
+2022-10-31 09:44:00 INFO  CartDaoJDBCImpl:55 - Product id: 2 add to cart 2success
+2022-10-31 09:45:43 INFO  CartDaoJDBCImpl:55 - Product id: 4 add to cart 2success
+2022-10-31 09:58:35 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 2success
+2022-10-31 10:13:30 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 10:13:44 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 2success
+2022-10-31 10:19:15 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:32:34 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:35:15 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:35:33 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:35:40 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:37:01 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:37:08 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:37:47 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:39:32 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:39:38 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:39:52 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:40:19 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:40:38 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:40:41 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:40:45 ERROR CartDaoJDBCImpl:93 - Product id: 0 remove from to cart 2 failure
+2022-10-31 09:43:36 ERROR CartDaoJDBCImpl:93 - Product id: 1 remove from to cart 2 failure
+2022-10-31 09:46:15 ERROR CartDaoJDBCImpl:93 - Product id: 1 remove from to cart 2 failure
+2022-10-31 09:47:49 ERROR CartDaoJDBCImpl:93 - Product id: 1 remove from to cart 2 failure
+2022-10-31 09:48:29 INFO  CartDaoJDBCImpl:91 - Product id: 1 remove from cart 2 success
+2022-10-31 09:55:57 INFO  CartDaoJDBCImpl:91 - Product id: 1 remove from cart 2 success
+2022-10-31 09:58:24 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 09:58:36 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 2 success
+2022-10-31 09:58:47 INFO  CartDaoJDBCImpl:55 - Product id: 2 add to cart 2 success
+2022-10-31 09:58:53 INFO  CartDaoJDBCImpl:91 - Product id: 0 remove from cart 2 success
+2022-10-31 09:58:56 INFO  CartDaoJDBCImpl:91 - Product id: 0 remove from cart 2 success
+2022-10-31 09:59:12 INFO  CartDaoJDBCImpl:91 - Product id: 0 remove from cart 2 success
+2022-10-31 09:59:15 INFO  CartDaoJDBCImpl:91 - Product id: 0 remove from cart 2 success
+2022-10-31 10:05:03 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 10:08:28 INFO  CartDaoJDBCImpl:91 - Product id: 0 remove from cart 2 success
+2022-10-31 10:09:18 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 10:09:25 INFO  CartDaoJDBCImpl:91 - Product id: 2 remove from cart 2 success
+2022-10-31 10:18:25 INFO  ProductDaoJDBCImpl:45 - Product id 2 remove from DB success
+2022-10-31 11:01:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 12:16:42 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 12:17:52 ERROR OrderDaoJDBCImpl:43 - Order create failure 
+2022-10-31 12:26:19 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 12:26:26 ERROR OrderDaoJDBCImpl:44 - Order create failure 
+2022-10-31 12:32:20 ERROR OrderDaoJDBCImpl:55 - Order create failure 
+2022-10-31 12:32:39 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-10-31 12:33:29 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 12:33:33 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-10-31 13:16:42 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 13:16:56 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 13:20:08 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 13:21:33 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 13:21:38 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 13:23:44 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 13:23:50 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 13:25:51 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 13:25:56 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:02:20 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 14:06:50 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:08:48 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:17:37 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 14:17:45 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:19:18 INFO  CartDaoJDBCImpl:55 - Product id: 5 add to cart 2 success
+2022-10-31 14:19:20 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 2 success
+2022-10-31 14:19:43 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:20:18 INFO  CartDaoJDBCImpl:55 - Product id: 7 add to cart 2 success
+2022-10-31 14:20:29 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 14:25:13 INFO  ProductDaoJDBCImpl:31 - Product USB кабель add to DB success
+2022-10-31 16:24:34 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 16:39:58 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 16:40:28 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 16:43:10 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 16:43:15 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 16:44:11 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 16:44:18 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 16:46:44 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-10-31 16:46:49 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-10-31 16:47:04 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-11-04 15:57:44 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 15:57:51 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:06:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:07:18 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:08:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:08:21 INFO  CartDaoJDBCImpl:55 - Product id: 5 add to cart 2 success
+2022-11-04 16:08:28 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-11-04 16:10:34 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:12:12 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:14:22 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 16:15:13 INFO  ProductDaoJDBCImpl:31 - Product Защитное стекло add to DB success
+2022-11-04 16:15:23 INFO  ProductDaoJDBCImpl:45 - Product id 9 remove from DB success
+2022-11-04 17:15:02 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:15:09 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:18:52 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:18:58 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:20:19 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:20:54 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:21:00 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:21:05 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:21:12 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:21:46 INFO  ProductDaoJDBCImpl:54 - Product find from DB success
+2022-11-04 17:45:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:45:26 INFO  ProductDaoJDBCImpl:32 - Product Зарядка 12-1 add to DB success
+2022-11-04 17:45:35 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 17:45:56 ERROR ProductDaoJDBCImpl:51 - Product 10 update failure
+2022-11-04 17:47:05 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:47:14 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 17:51:06 ERROR ProductDaoJDBCImpl:51 - Product 10 update failure
+2022-11-04 17:52:16 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:52:54 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 17:53:07 ERROR ProductDaoJDBCImpl:51 - Product 10 update failure
+2022-11-04 17:55:23 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 17:55:39 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 17:56:10 ERROR ProductDaoJDBCImpl:51 - Product 10 update failure
+2022-11-04 18:04:27 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 18:04:36 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 18:12:18 ERROR ProductDaoJDBCImpl:51 - Product 10 update failure
+2022-11-04 18:12:59 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 18:13:05 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 18:13:22 INFO  ProductDaoJDBCImpl:49 - Product 10 update success
+2022-11-04 18:13:35 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-11-04 18:18:08 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 18:29:23 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 18:30:08 INFO  CartDaoJDBCImpl:91 - Product id: 1 remove from cart 2 success
+2022-11-04 18:30:13 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-11-04 18:30:13 INFO  CartDaoJDBCImpl:129 - Cart id: 0 clear success
+2022-11-04 19:20:18 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 19:20:25 INFO  OrderDaoJDBCImpl:55 - Order create success 
+2022-11-04 19:20:25 INFO  CartDaoJDBCImpl:129 - Cart id: 0 clear success
+2022-11-04 19:25:29 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 19:27:56 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 19:28:11 INFO  MessageServiceImpl:46 - Confirm code from order 1 send to email success
+2022-11-04 21:19:18 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 21:19:27 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 21:22:15 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 21:30:41 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 21:31:10 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 21:39:27 INFO  ProductDaoJDBCImpl:49 - Product 10 update success
+2022-11-04 21:40:28 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 21:40:35 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-04 21:43:59 INFO  ProductDaoJDBCImpl:49 - Product 10 update success
+2022-11-04 21:44:46 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-04 21:44:54 INFO  ProductDaoJDBCImpl:71 - Product find from DB success
+2022-11-07 09:38:58 INFO  ProductDaoJDBCImpl:49 - Product 10 update success
+2022-11-07 09:40:48 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 09:40:58 INFO  CartDaoJDBCImpl:55 - Product id: 10 add to cart 2 success
+2022-11-07 09:41:05 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-11-07 09:41:05 INFO  CartDaoJDBCImpl:129 - Cart id: 0 clear success
+2022-11-07 09:53:54 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 09:56:56 INFO  MessageServiceImpl:46 - Confirm code from order 10 send to email success
+2022-11-07 09:56:56 INFO  OrderDaoJDBCImpl:93 - Confirm code to orders  10 set success
+2022-11-07 10:26:17 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 10:26:51 INFO  MessageServiceImpl:46 - Confirm code from order 10 send to email success
+2022-11-07 10:26:51 INFO  OrderDaoJDBCImpl:93 - Confirm code to orders  10 set success
+2022-11-07 10:36:37 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 10:37:05 INFO  MessageServiceImpl:46 - Confirm code from order 15 send to email success
+2022-11-07 10:37:06 INFO  OrderDaoJDBCImpl:93 - Confirm code to orders  15 set success
+2022-11-07 10:39:18 INFO  OrderDaoJDBCImpl:133 - Change status order id   15 success
+2022-11-07 11:44:50 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 11:47:52 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 11:55:53 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 11:58:41 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:15:09 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:17:51 INFO  UserDaoJDBCImpl:108 - User 12@mail.ua find into DB success
+2022-11-07 12:26:10 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:29:29 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:30:44 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:33:33 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:34:34 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:39:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:44:21 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:46:45 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:47:32 INFO  UserDaoJDBCImpl:108 - User 12@mail.ua find into DB success
+2022-11-07 12:47:52 INFO  UserDaoJDBCImpl:108 - User 12@mail.ua find into DB success
+2022-11-07 12:48:08 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 12:48:24 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:14:32 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:38:06 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:41:19 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:43:55 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:44:54 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:51:49 INFO  UserDaoJDBCImpl:108 - User 12@mail.ua find into DB success
+2022-11-07 13:55:35 INFO  UserDaoJDBCImpl:108 - User 12@mail.ua find into DB success
+2022-11-07 13:55:55 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:58:31 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 13:59:30 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 14:02:18 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 14:13:14 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 14:16:08 INFO  CartDaoJDBCImpl:129 - Cart id: 2 clear success
+2022-11-07 14:16:37 INFO  CartDaoJDBCImpl:55 - Product id: 1 add to cart 2 success
+2022-11-07 14:16:40 INFO  CartDaoJDBCImpl:55 - Product id: 3 add to cart 2 success
+2022-11-07 14:17:31 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-11-07 14:17:31 INFO  CartDaoJDBCImpl:129 - Cart id: 0 clear success
+2022-11-07 14:18:44 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 14:18:50 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-11-07 14:20:01 INFO  CartDaoJDBCImpl:129 - Cart id: 0 clear success
+2022-11-07 14:23:13 INFO  UserDaoJDBCImpl:108 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 14:23:22 INFO  CartDaoJDBCImpl:55 - Product id: 3 add to cart 2 success
+2022-11-07 14:23:27 INFO  OrderDaoJDBCImpl:53 - Order create success 
+2022-11-07 14:23:27 INFO  CartDaoJDBCImpl:129 - Cart id: 2 clear success
+2022-11-07 15:04:05 INFO  UserDaoJDBCImpl:106 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 15:04:17 INFO  CartDaoJDBCImpl:51 - Product id: 10 add to cart 2 success
+2022-11-07 15:04:19 INFO  CartDaoJDBCImpl:51 - Product id: 4 add to cart 2 success
+2022-11-07 15:04:26 INFO  OrderDaoJDBCImpl:46 - Order create success 
+2022-11-07 15:04:26 INFO  CartDaoJDBCImpl:123 - Cart id: 2 clear success
+2022-11-07 15:06:07 INFO  UserDaoJDBCImpl:106 - User 12@mail.ua find into DB success
+2022-11-07 15:29:55 INFO  UserDaoJDBCImpl:59 - User 2323@gmail.com add to DB success
+2022-11-07 15:29:55 INFO  UserDaoJDBCImpl:106 - User 2323@gmail.com find into DB success
+2022-11-07 15:33:31 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 15:33:31 INFO  UserDaoJDBCImpl:106 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 15:34:07 INFO  UserDaoJDBCImpl:59 - User 222@gmail.com add to DB success
+2022-11-07 15:34:07 INFO  UserDaoJDBCImpl:106 - User 222@gmail.com find into DB success
+2022-11-07 15:43:12 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 15:43:12 INFO  UserDaoJDBCImpl:121 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 15:49:44 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 15:49:46 INFO  UserDaoJDBCImpl:121 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 15:51:59 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 15:57:21 INFO  UserDaoJDBCImpl:121 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 16:19:49 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 16:20:44 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 16:24:30 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:24:30 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:24:30 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 16:25:02 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:25:02 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:25:02 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:25:02 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 16:27:58 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:27:58 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:27:58 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:27:58 ERROR UserDaoJDBCImpl:61 - User dmitriy.kharkovskiy6095@gmail.com add to DB failure
+2022-11-07 16:30:07 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:30:07 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 16:30:07 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:10:28 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:10:28 INFO  UserDaoJDBCImpl:122 - User dmitriy.kharkovskiy6095@gmail.com find into DB success
+2022-11-07 20:24:35 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:24:52 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:25:10 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:30:58 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:34:17 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:35:54 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:36:47 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:26 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:27 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:27 INFO  UserDaoJDBCImpl:59 - User 6@gmail.com add to DB success
+2022-11-07 20:38:27 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:27 INFO  UserDaoJDBCImpl:122 - User 6@gmail.com find into DB success
+2022-11-07 20:38:27 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:52 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:52 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:52 INFO  UserDaoJDBCImpl:59 - User 65@gmail.com add to DB success
+2022-11-07 20:38:52 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:38:52 INFO  UserDaoJDBCImpl:122 - User 65@gmail.com find into DB success
+2022-11-07 20:38:53 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:41:23 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:41:23 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:41:23 INFO  UserDaoJDBCImpl:59 - User 1@mail.ua add to DB success
+2022-11-07 20:41:24 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:41:24 INFO  UserDaoJDBCImpl:122 - User 1@mail.ua find into DB success
+2022-11-07 20:41:24 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:41:41 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:42:29 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:02 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:21 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:21 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:21 INFO  UserDaoJDBCImpl:59 - User 3@mail.ua add to DB success
+2022-11-07 20:46:22 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:22 INFO  UserDaoJDBCImpl:122 - User 3@mail.ua find into DB success
+2022-11-07 20:46:22 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:39 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:39 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:39 INFO  UserDaoJDBCImpl:59 - User 34@mail.ua add to DB success
+2022-11-07 20:46:40 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:46:40 INFO  UserDaoJDBCImpl:122 - User 34@mail.ua find into DB success
+2022-11-07 20:46:40 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:14 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:14 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:14 INFO  UserDaoJDBCImpl:59 - User 6@mail.ua add to DB success
+2022-11-07 20:50:14 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:14 INFO  UserDaoJDBCImpl:122 - User 6@mail.ua find into DB success
+2022-11-07 20:50:14 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:28 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:28 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:28 INFO  UserDaoJDBCImpl:59 - User 7@mail.ua add to DB success
+2022-11-07 20:50:28 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 20:50:28 INFO  UserDaoJDBCImpl:122 - User 7@mail.ua find into DB success
+2022-11-07 20:50:28 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:17:09 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:17:09 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:17:09 ERROR UserDaoJDBCImpl:62 - User 33@gmail.com add to DB failure
+2022-11-07 21:17:09 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:17:09 INFO  UserDaoJDBCImpl:123 - User 33@gmail.com find into DB success
+2022-11-07 21:19:09 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:19:51 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:22:28 ERROR UserDaoJDBCImpl:62 - User 8@mail.ua add to DB failure
+2022-11-07 21:23:16 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:23:16 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:23:16 ERROR UserDaoJDBCImpl:62 - User h@mail.ua add to DB failure
+2022-11-07 21:23:16 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:23:16 INFO  UserDaoJDBCImpl:123 - User h@mail.ua find into DB success
+2022-11-07 21:27:31 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:27:31 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:27:31 ERROR UserDaoJDBCImpl:62 - User 9@gmai.com add to DB failure
+2022-11-07 21:27:32 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:27:32 ERROR UserDaoJDBCImpl:62 - User 9@gmai.com add to DB failure
+2022-11-07 21:27:32 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:27:32 INFO  UserDaoJDBCImpl:123 - User 9@gmai.com find into DB success
+2022-11-07 21:29:45 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:30:19 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:32:41 ERROR UserDaoJDBCImpl:62 - User 444@gmai.com add to DB failure
+2022-11-07 21:32:44 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:32:44 INFO  UserDaoJDBCImpl:123 - User 444@gmai.com find into DB success
+2022-11-07 21:33:45 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:33:45 ERROR UserDaoJDBCImpl:62 - User 95@gmail.com add to DB failure
+2022-11-07 21:40:13 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:40:13 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:40:13 INFO  UserDaoJDBCImpl:60 - User 8@mail.ua add to DB success
+2022-11-07 21:40:13 INFO  ConnectionToDB:23 - Connection to DB success
+2022-11-07 21:40:13 INFO  UserDaoJDBCImpl:123 - User 8@mail.ua find into DB success

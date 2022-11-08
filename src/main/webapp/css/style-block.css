@@ -1,0 +1,144 @@
+body {
+    background: #FFF;
+    color: #000;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+
+#header {
+    background-image: url('/img/header_footer.jpg');
+    background-size: 100%;
+    width: 100%;
+    height: 15%;
+    font-family: Snell Roundhand, cursive;
+    font-size: 18px;
+    color: #C0C0C0;
+}
+
+
+#container {
+    background: #C0C0C0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+}
+
+#navigation {
+    background-image: url('/img/header_footer.jpg');
+    background-size: 100%;
+    width: 100%;
+    height: 5%;
+}
+.nav a {
+    float: right;
+    color: #C0C0C0;
+    text-align: center;
+    padding: 0.5% 5%;
+    text-decoration: none;
+    font-size: 85%;
+}
+.nav a:hover {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+
+#sidebar {
+    background: #D2B48C;
+    text-align: left;
+    float: left;
+    width: 15%;
+    min-height: 73%;
+    height: auto;
+}
+.side a {
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.side a:hover {
+    color: #708090;
+}
+
+#content {
+    background-image: url('/img/background.jpg');
+    background-size: 100%;
+    float: right;
+    width: 85%;
+    min-height: 73%;
+    height: auto;
+}
+
+#clear {
+    clear: both;
+}
+
+#footer {
+    background-image: url('/img/header_footer.jpg');
+    background-size: 100%;
+    width: 100%;
+    height: 7%;
+    color: #C0C0C0;
+    font-size: 14px;
+}
+.error-message{
+    font-size: 14px;
+    color: red;
+}
+.table-users {
+    width: 90%;
+    margin: 5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table-users th {
+    font-weight: bold;
+    padding: 5px;
+    background: slategrey;
+    border: 1px solid black;
+}
+.table-users td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+.product {
+    width: 20%;
+    height: 73%;
+    float: left;
+    text-align: center;
+    padding: 0.5% 5%;
+    text-decoration: none;
+}
+.img-product{
+    width: 100%;
+    height: 80%;
+}
+
+.select-product {
+    width: 100%;
+    height: 70%;
+    padding: 0.5% 5%;
+    text-decoration: none;
+}
+.select-img-product {
+    float: left;
+    width: 30%;
+    height: 90%;
+}
+#add-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+
