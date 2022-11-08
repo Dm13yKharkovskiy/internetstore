@@ -33,7 +33,6 @@ class Scratch {
         User user = new User(email, sha256SecurePassword, randomSalt, "user");
         System.out.println(randomSalt);
         System.out.println(user.getSalt());
-        //USER_SERVICE.addUser(email, password, repeatPassword);
 
     }
 }
